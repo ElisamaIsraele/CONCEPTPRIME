@@ -4,7 +4,7 @@
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-beige"/></a>
  <a href="https://conceptprimefatec.atlassian.net/jira/software/projects/CPTPRIME/boards/1/backlog/"><img src="https://img.shields.io/badge/LINK:-JIRA SOFTWARE-blue"/></a>
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
+> Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
 # Índice
 
@@ -18,7 +18,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * Autores
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+> Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
@@ -56,7 +56,8 @@ Aluno            	 	| Função |
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-O projeto aborda o mapeamento através dos dados
+
+> O projeto aborda o mapeamento através dos dados
 de importação e exportação disponíveis no site do
 comércio exterior do Brasil (ComexStat), as análises
 voltadas para os dados de importação e exportação
