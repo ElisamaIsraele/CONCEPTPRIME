@@ -142,7 +142,8 @@ _Sprint 02_
 _Feita checagem e retirada do modelo de previsão por suavização exponencial._ 
 
 
-![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141978882/1a58918f-6648-4ce7-a99d-4176bac83dd0)
+![image](https://github.com/Guilhermecarvalhoribeiro/CONCEPTPRIME/assets/141979314/866c8e18-8fc9-4012-a84a-ce9f3e8cb84c)
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
